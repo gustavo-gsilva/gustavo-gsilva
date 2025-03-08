@@ -12,7 +12,7 @@
 <div>
  <h2>Estudando agora</h2><br>
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img title="ReactJS" aling="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
     
 <div style="display: inline_block"><br>
