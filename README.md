@@ -8,6 +8,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-gsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gsilva&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+<div>
+ <h2>Estudando agora</h2><br>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+</div>
     
 <div style="display: inline_block"><br>
  <h2>🛠️Linguagens e Ferramentas</h2>
