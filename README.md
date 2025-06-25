@@ -12,7 +12,8 @@
 <div>
  <h2>📚Estudando agora</h2><br>
  
- <img title="ReactJS" aling="center" alt="ReactJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img title="ReactJS" aling="center" alt="ReactJS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img title="TailWindCSS" aling="center" alt="TailWindCSS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
     
 <div style="display: inline_block"><br>
