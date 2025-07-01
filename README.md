@@ -1,7 +1,10 @@
-<h2>Bem-vindo(a) ao meu perfil do GitHub 😁</h2>
+<h1>Olá eu sou Gustavo Silva 😁</h2>
 
-<p>Sou um desenvolvedor frontend em formação apaixonado por tecnologia. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. Também sou fã de jogos, filmes, séries e animes. Atualmente estou fazendo um curso de desenvolvimento web Frontend. Sou uma pessoa muito dedicada, com grande curiosidade por programação. Tenho facilidade para me comunicar e estou sempre aberto a aprender coisas novas, buscando constantemente aprimorar minhas habilidades.
-</p>
+<h4>Sou um desenvolvedor frontend em formação apaixonado por tecnologia. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. Também sou fã de jogos, filmes, séries e animes. Atualmente estou fazendo um curso de desenvolvimento web Frontend. Sou uma pessoa muito dedicada, com grande curiosidade por programação. Tenho facilidade para me comunicar e estou sempre aberto a aprender coisas novas, buscando constantemente aprimorar minhas habilidades.
+</h4>
+
+<h2>Cerificações</h2>
+<p>• Curso Devquest de Desenvolvimento Front-End ->(Status) Em andamento🎯</p>
 
  <div>
    <a href="https://github.com/gustavo-gsilva">
@@ -13,18 +16,19 @@
  <h2>📚Estudando agora</h2><br>
  
  <img title="ReactJS" aling="center" alt="ReactJS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img title="TypeScript" aling="center" alt="TypeScript Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
  <img title="TailWindCSS" aling="center" alt="TailWindCSS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
     
-<div style="display: inline_block"><br>
- <h2>🛠️Linguagens e Ferramentas</h2>
+<div style="display: inline_block">
+ <h2>🛠️Linguagens e Ferramentas</h2><br>
  
   <img title="HTML" align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="JavaScript" align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<h2>📫Conecte-se Comigo</h2>
+<h2>📫Conecte-se Comigo</h2><br>
 
 <div>
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
