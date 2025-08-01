@@ -4,7 +4,7 @@
 </h4>
 
 <h2>Cerificações</h2>
-<p>• Curso Devquest de Desenvolvimento Front-End ->(Status) Em andamento🎯</p>
+<p>• Curso Devquest de Desenvolvimento Front-End ->(Status) Finalizado abril 2024 - Julho 2025</p>
 
  <div>
    <a href="https://github.com/gustavo-gsilva">
@@ -15,17 +15,18 @@
 <div>
  <h2>📚Estudando agora</h2><br>
  
- <img title="ReactJS" aling="center" alt="ReactJS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
- <img title="TypeScript" aling="center" alt="TypeScript Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- <img title="TailWindCSS" aling="center" alt="TailWindCSS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
 </div>
     
 <div style="display: inline_block">
  <h2>🛠️Linguagens e Ferramentas</h2><br>
  
-  <img title="HTML" align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="JavaScript" align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="HTML" align="center" alt="HTML Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="CSS" align="center" alt="CSS Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img title="JavaScript" align="center" alt="JavaScript Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="ReactJS" align="center" alt="ReactJS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img title="TypeScript" align="center" alt="TypeScript Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img title="TailWindCSS" align="center" alt="TailWindCSS Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 <h2>📫Conecte-se Comigo</h2><br>
