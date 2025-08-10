@@ -1,6 +1,6 @@
 <h1>Olá eu sou Gustavo Silva 😁</h2>
 
-<h4>Sou um desenvolvedor frontend em formação apaixonado por tecnologia. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. Também sou fã de jogos, filmes, séries e animes. Atualmente estou fazendo um curso de desenvolvimento web Frontend. Sou uma pessoa muito dedicada, com grande curiosidade por programação. Tenho facilidade para me comunicar e estou sempre aberto a aprender coisas novas, buscando constantemente aprimorar minhas habilidades.
+<h4>Sou um desenvolvedor frontend em formação apaixonado por tecnologia. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. Também sou fã de jogos, filmes, séries e animes. Atualmente estou fazendo um curso de desenvolvimento web FrontEnd. Sou uma pessoa muito dedicada, com grande curiosidade por programação. Tenho facilidade para me comunicar e estou sempre aberto a aprender coisas novas, buscando constantemente aprimorar minhas habilidades.
 </h4>
 
 <h2>Cerificações</h2>
@@ -14,8 +14,7 @@
 
 <div>
  <h2>📚Estudando agora</h2><br>
- 
-
+  <img title="PostgreeSQL" align="center" alt="PostgreeSQL Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
     
 <div style="display: inline_block">
