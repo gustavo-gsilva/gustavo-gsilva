@@ -1,6 +1,8 @@
 <h1>Olá eu sou Gustavo Silva 😁</h2>
 
-<h4>Sou um desenvolvedor frontend em formação apaixonado por tecnologia. Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. Também sou fã de jogos, filmes, séries e animes. Atualmente estou fazendo um curso de desenvolvimento web FrontEnd. Sou uma pessoa muito dedicada, com grande curiosidade por programação. Tenho facilidade para me comunicar e estou sempre aberto a aprender coisas novas, buscando constantemente aprimorar minhas habilidades.
+<h4>Sou um desenvolvedor frontend movido pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto de me desafiar com novos projetos, trocar experiências com a comunidade de programação e compartilhar o que aprendo ao longo do caminho.
+Busco sempre aprimorar minhas habilidades em HTML, CSS, JavaScript, React, TypeScript e TailWindCSS. Tenho facilidade em me comunicar, sou curioso por natureza e dedicado em tudo o que faço.
+Além do mundo da programação, também sou fã de jogos, filmes, séries e animes, que me inspiram a ser criativo e explorar novas ideias.
 </h4>
 
 <h2>Cerificações</h2>
